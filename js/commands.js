@@ -17,7 +17,7 @@ social = [
   "<br>",
   'Youtube        <a href="' + youtubee + '" target="_blank">youtube/c/lase.x' + "</a>",
   'Instagram      <a href="' + insta + '" target="_blank">instagram/a4ytqw' + '</a>',
-  'Spotify        <a href="'+spo+'"target="_blank">spotify/Lase',   
+  'Spotify        <a href="'+spo+'"target="_blank">spotify/Lase.q',   
   "<br>"
 ];
 
