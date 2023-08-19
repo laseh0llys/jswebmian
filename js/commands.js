@@ -15,8 +15,8 @@ var youtubee = "https://www.youtube.com/@lase.x"
 var spo = "https://open.spotify.com/user/31yfaqg6blyz6sq6bvjv2eo32dzy"
 social = [
   "<br>",
-  'Tiktok         <a href="' + tt + '" target="_blank">tiktok/c/lase.q' + "</a>",
-  'Youtube        <a href="' + youtubee + '" target="_blank">youtube/c/lase.x' + "</a>",
+  'Tiktok         <a href="' + tt + '" target="_blank">tiktok/lase.q' + "</a>",
+  'Youtube        <a href="' + youtubee + '" target="_blank">youtube/lase.x' + "</a>",
   'Instagram      <a href="' + insta + '" target="_blank">instagram/lase.qq' + '</a>',
   'Spotify        <a href="'+spo+'"target="_blank">spotify/lase.q',   
   "<br>"
