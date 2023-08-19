@@ -51,7 +51,7 @@ var sarki =
 help = [
   "<br>",
   '<span class="command">Command:</span>         Just write "whois" or "social".',
-  '<span class="command">whois</span>    =>      Who is Lase 😁?',
+  '<span class="command">whois</span>    =>      Who is Lase?',
   '<span class="command">social</span>   =>      Social Media',
   "<br>",
 ];
