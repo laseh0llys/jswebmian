@@ -85,6 +85,7 @@ banner2 = [
   "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⠘⢿⣿⣿⣿⣿⡟⠁⣰⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀       ",
   "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠧⣈⣙⣛⣛⣉⣠⠜⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀        ",
   "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀         ",
+https://cdn.discordapp.com/banners/425718262546956291/a_c2fb09e0ebbd56181da5471cbeaaaf98.gif?size=2048
 "<span class=\"color2\">Komutları Görmek İçin</span> <span class=\"command\">'help'</span><span class=\"color2\"> yazınız.</span>",
 "<span class=\"color2\">To See Commands</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
 ]
